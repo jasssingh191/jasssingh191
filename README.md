@@ -1,4 +1,5 @@
-👋 Hi, I’m Jass. I build the engine and polish the chrome.
+👋 Hi, I’m Jaspreet. 
+
 I started my career in Graphic and Industrial Design, obsessed with aesthetics and ergonomics. That evolved into a passion for UX/UI, but I eventually got tired of just "dreaming" up products—I wanted to build them.
 
 Now, I’m a Software Engineer who treats code like a CAD model: precise, systematic, and built to last. I specialize in bridging the gap between high-level design vision and high-performance functional reality.
